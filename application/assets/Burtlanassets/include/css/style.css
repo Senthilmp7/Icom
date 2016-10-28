@@ -1,0 +1,9 @@
+.brt_sp
+{
+    
+    width: 98%;
+}
+
+.product1 data-rel-img:last-child{display:none}
+.product1:hover data-rel-img:first-child{display:none}
+.product1:hover data-rel-img:last-child{display:inline-block}
